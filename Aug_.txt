@@ -1,0 +1,13 @@
+ls = show the lists of all files and directories
+pwd = shows the directory that you are working on 
+cd = change between the directories
+cd .. = moves you up one directory
+mkdir = creates a new directory
+touch = create a new file 
+ls -a = list all the contents and includes hidden files and directories
+cat  =  shows the contents of a specific file (will need the path for the file)
+cp = copu files and/or directories 
+rm = will remova a file
+mv = moves and rename files
+rm -r = will remove the directory
+
