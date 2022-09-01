@@ -1,0 +1,19 @@
+https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-navigation/cheatsheet
+^ cheatsheet for the command lines
+https://content.codecademy.com/courses/learn-command-line/img/LCL-fileTrees-01.png?_gl=1*68v3g0*_ga*NTgwNzc0OTYzNi4xNjU4NTQ3MTQ1*_ga_3LRZM6TM9L*MTY2MTg5OTI4My45LjEuMTY2MTg5OTYzNi40NC4wLjA.
+tree that will be worked on ^
+
+first directory == root (the the parent of all the directories and files)
+Commands:
+ls = show the lists of all files and directories
+pwd = shows the directory that you are working on 
+cd = change between the directories
+cd .. = moves you up one directory
+mkdir = creates a new directory
+touch = create a new file 
+ls -a = list all the contents and includes hidden files and directories
+cat  =  shows the contents of a specific file (will need the path for the file)
+cp = copu files and/or directories 
+rm = will remova a file
+mv = moves and rename files
+rm -r = will remove the directory

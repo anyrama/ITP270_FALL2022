@@ -1,0 +1,8 @@
+Basic commands for GITHUB
+git init = to initialize a repository
+git status = show all the files that are untracked 
+git add "filename" = add the files that were untracked
+git diff "filename" = will show any modification on the file
+git commit -m "add a comment referent to the file" =  will send the file to the git with a comment
+git log = will present all the previous commits
+git clone = will clone the file for the other users

@@ -1,0 +1,10 @@
+Basic commands lines
+
+sort= will make the contents of the file be in alphabetical order
+uniq = will filter out duplicaded lines inside the file 
+grep| = global regular ecpression print = searches files for lines that meatch a pattern and then returns the result.(this is case sensitive)
+grep -i = is the same but will not be case sensitive
+grep -R = searches all the files in a directory and ouputs filenames and lines with matched results
+sed = is a stream editor 
+s = is for the substitution --  so the command line will be: sed 's/snow/rain/g' forests.txt
+this will chang all the words snow for rain the the forests.txt

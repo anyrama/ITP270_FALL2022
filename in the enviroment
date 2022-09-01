@@ -1,0 +1,9 @@
+nano = is a command line for a text editor
+bash profile = nano ~/.bash_profile
+source = will save the changes of the bash profile 
+aliases = allows you to create keyboards shortcuts inside the bash profile 
+enviroment variable = are variable that can be used across commands and programs and hold information about the enviroment.
+PS1 is an eviroment variable it defines the maeup and style of the command prompt
+Home enviroment variable = is when 
+path separate list of the file paths, it is customized
+env returns a list of eviroments variables, you can redirect the output, using GREP to select the variable you want to see.
