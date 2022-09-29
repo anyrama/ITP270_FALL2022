@@ -21,3 +21,6 @@ then
 else
 	echo "You dont have enough credits to graduate"
 fi
+
+
+
